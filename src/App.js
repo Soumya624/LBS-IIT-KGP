@@ -64,9 +64,7 @@ function App() {
                   Learn Believe <em>Succeed</em>
                 </h1>
                 <p>
-                  Phasellus dapibus urna vel lacus accumsan, iaculis eleifend
-                  leo auctor. Duis at finibus odio. Vivamus ut pharetra arcu, in
-                  porta metus. Suspendisse blandit pulvinar ligula ut elementum.
+                  The hall was founded in 2011 and is the newest of all the 22 halls of IIT Kharagpur. In 2011, finished blocks (A, D) were allotted to M.Tech and PhD students. Later in 2012, the construction of B, AB blocks were complete and were allotted to the undergraduate freshers. The construction was finally completed in 2013. In 2014, graduate students were shifted to MMM Hall and B R Ambedkar Hall, thus making it an undergraduate hall in entirety.
                 </p>
                 <a href="#about" className="main-button-slider">
                   KNOW YOUR HALL
